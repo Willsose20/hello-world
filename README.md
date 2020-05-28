@@ -1,4 +1,4 @@
 # hello-world
 for testing purpose
 
-hier wurden ein paar weiter Neuigkeiten eingetragen.
+This shall be updated to GitHub via my local directory
